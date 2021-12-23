@@ -1,0 +1,15 @@
+D:\LEYLA\7.13\bin\Debug\net6.0\7.13.exe
+D:\LEYLA\7.13\bin\Debug\net6.0\7.13.deps.json
+D:\LEYLA\7.13\bin\Debug\net6.0\7.13.runtimeconfig.json
+D:\LEYLA\7.13\bin\Debug\net6.0\7.13.dll
+D:\LEYLA\7.13\bin\Debug\net6.0\ref\7.13.dll
+D:\LEYLA\7.13\bin\Debug\net6.0\7.13.pdb
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.csproj.AssemblyReference.cache
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.AssemblyInfoInputs.cache
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.AssemblyInfo.cs
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.csproj.CoreCompileInputs.cache
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.dll
+D:\LEYLA\7.13\obj\Debug\net6.0\ref\7.13.dll
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.pdb
+D:\LEYLA\7.13\obj\Debug\net6.0\7.13.genruntimeconfig.cache
